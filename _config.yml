@@ -1,0 +1,28 @@
+# Site settings
+title: ECRL
+email: redwards.site@ecrl.com
+url: http://ecrl.com
+description: "A managed service provider in Harleysville, PA"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: ECRL
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: redwards.site@ecrl.com
+    url: mailto:redward.site@ecrl.com
+    fa: envelope
+  - title: 215-256-4957
+    url: tel:+1-215-256-4957
+    fa: phone
+  - title: PO Box 187, Harleysville, PA 19438
+    fa: home
+
+# Build settings
+markdown: kramdown
+permalink: pretty
